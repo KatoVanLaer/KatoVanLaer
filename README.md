@@ -1,4 +1,7 @@
 ## Hi there 👋
+*Sometimes the smallest things take up the most room in your heart.* Winnie The Pooh
+
+🔭 I’m currently working on data analysis. 
 
 <!--
 **KatoVanLaer/KatoVanLaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
